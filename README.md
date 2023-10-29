@@ -1,1 +1,2 @@
-# symfony
+# Dockerized Symfony project
+## Exercice
